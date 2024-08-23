@@ -70,8 +70,8 @@ Users can filter data by product information (category and subcategory) and loca
 - Collected user requirements and defined key objectives.
 - Selected the appropriate chart types for each KPI.
 - Created initial mockups to visualize dashboard layouts.
-  - **Sales & Customer Dashboard Mockup**
-  - ![Sales   Customer Mockup](https://github.com/user-attachments/assets/6f0dcd3d-180e-4ce4-b138-b69ff06ea9f5)
+- **Sales & Customer Dashboard Mockup**
+- ![Sales   Customer Mockup](https://github.com/user-attachments/assets/6f0dcd3d-180e-4ce4-b138-b69ff06ea9f5)
 
 ### 2. Build Data Source
 - Connected to the data source and established connections in Tableau.
