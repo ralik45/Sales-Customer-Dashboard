@@ -1,4 +1,4 @@
-# Sales & Customer Dashboard Project
+# Sales & Customer Dashboard
 
 ## Introduction
 This project showcases a comprehensive approach to analyzing and visualizing sales and customer performance data using Tableau. The project includes two interconnected dashboards: the **Sales Dashboard** and the **Customer Dashboard**, each designed to meet specific user requirements for sales performance and customer analysis.
