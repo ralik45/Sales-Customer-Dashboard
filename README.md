@@ -65,14 +65,6 @@ The dashboards are designed with user interactivity in mind:
 Users can filter data by product information (category and subcategory) and location information (region, state, city) to gain specific insights relevant to their needs.
 
 ## Project Workflow
-1. **Requirement Analysis**: Analyzed the user requirements to identify key metrics and design elements.
-2. **Mockup Creation**: Developed mockups to plan the layout and structure of the dashboards.
-   - Created the **Sales & Customer Mockup** to visualize the final dashboard.
-   - ![Sales   Customer Mockup](https://github.com/user-attachments/assets/6f0dcd3d-180e-4ce4-b138-b69ff06ea9f5)
-   - Created the **Container Mockup** to structure the layout using Tableau’s container features.
-   - ![Container Mockup](https://github.com/user-attachments/assets/9ad05eeb-aa29-4822-8e07-5f8a2f801e75)
-
-## Project Workflow
 
 ### 1. Analyze Requirements
 - Collected user requirements and defined key objectives.
