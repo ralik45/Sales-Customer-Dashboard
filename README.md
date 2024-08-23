@@ -104,11 +104,6 @@ Users can filter data by product information (category and subcategory) and loca
 - **Customer Dashboard**
 - ![Customer Dashboard](https://github.com/user-attachments/assets/5fd66a43-48e5-4fb1-9300-6671a765668a)
 
-
-
-## Conclusion
-This project demonstrates a methodical approach to designing and building data-driven dashboards in Tableau. By focusing on the specific needs of stakeholders, the resulting dashboards provide valuable insights that can drive informed decision-making in sales and customer management.
-
 ## Resources
 
 ### Published Dashboard
