@@ -99,10 +99,12 @@ Users can filter data by product information (category and subcategory) and loca
   - Ensured all charts fit within the "Entire View" setting.
   - Added legends, inner/outer padding, and necessary spacing.
 - Incorporated dynamic filters and interactive icons for seamless navigation.
-- **Sales Dashboard**
-- ![Sales Dashboard](https://github.com/user-attachments/assets/c6f37aaa-c069-43de-9440-85da6cefb362)
-- **Customer Dashboard**
-- ![Customer Dashboard](https://github.com/user-attachments/assets/5fd66a43-48e5-4fb1-9300-6671a765668a)
+
+## Results
+**Sales Dashboard**
+![Sales Dashboard](https://github.com/user-attachments/assets/c6f37aaa-c069-43de-9440-85da6cefb362)
+**Customer Dashboard**
+![Customer Dashboard](https://github.com/user-attachments/assets/5fd66a43-48e5-4fb1-9300-6671a765668a)
 
 ## Resources
 
