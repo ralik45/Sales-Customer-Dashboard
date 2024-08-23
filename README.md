@@ -53,7 +53,9 @@ The Customer Dashboard provides an overview of customer data, trends, and behavi
 ### Dashboard Design
 To meet the design requirements, I created mockups for the **Sales Dashboard** and **Customer Dashboard** to visualize the layout and key elements:
 - **Sales & Customer Mockup**: This mockup was used to plan the visual structure of both dashboards, ensuring that all required elements are appropriately placed and visually coherent.
+![Sales   Customer Mockup](https://github.com/user-attachments/assets/6f0dcd3d-180e-4ce4-b138-b69ff06ea9f5)
 - **Container Mockup**: This mockup outlines the container structure used in the dashboards, with vertical and horizontal containers ensuring a flexible and organized layout.
+![Container Mockup](https://github.com/user-attachments/assets/9ad05eeb-aa29-4822-8e07-5f8a2f801e75)
 
 ### Interactivity
 The dashboards are designed with user interactivity in mind:
@@ -70,8 +72,6 @@ Users can filter data by product information (category and subcategory) and loca
 - Collected user requirements and defined key objectives.
 - Selected the appropriate chart types for each KPI.
 - Created initial mockups to visualize dashboard layouts.
-- **Sales & Customer Dashboard Mockup**
-- ![Sales   Customer Mockup](https://github.com/user-attachments/assets/6f0dcd3d-180e-4ce4-b138-b69ff06ea9f5)
 
 ### 2. Build Data Source
 - Connected to the data source and established connections in Tableau.
@@ -90,8 +90,6 @@ Users can filter data by product information (category and subcategory) and loca
 
 ### 4. Build Dashboard
 - Designed a container structure for organizing the dashboard layout.
-- **Container Mockup**
-- ![Container Mockup](https://github.com/user-attachments/assets/9ad05eeb-aa29-4822-8e07-5f8a2f801e75)
 - Assembled all charts within the container framework.
 - Applied final formatting:
   - Distributed objects evenly across the dashboard.
