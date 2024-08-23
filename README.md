@@ -76,7 +76,6 @@ Users can filter data by product information (category and subcategory) and loca
   - ![Container Mockup](https://github.com/user-attachments/assets/9ad05eeb-aa29-4822-8e07-5f8a2f801e75)
 
 ### 2. Build Data Source
-<img width="424" alt="Data Source" src="https://github.com/user-attachments/assets/e3461de6-b6a5-4e11-8430-646bec4cd5bf">
 - Connected to the data source and established connections in Tableau.
 - Created a comprehensive data model to support analysis.
 - Renamed fields and tables for clarity and consistency.
